@@ -1,0 +1,13 @@
+{
+  "id": "notestats-obsidian-plugin",
+  "name": "NoteStats",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.11",
+  "description": "Analyse patterns and data hidden in your notes.",
+  "author": "GJanos",
+  "authorUrl": "https://github.com/GJanos",
+  "fundingUrl": {
+    "Buy Me a Coffee": "<coffee_page>"
+  }
+  "isDesktopOnly": false
+}
